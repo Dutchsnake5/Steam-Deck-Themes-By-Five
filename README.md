@@ -28,3 +28,6 @@ These themes are usable through the theme DB inside the CssLoader: https://githu
 9.  Press install
 5. Again, open the Plugins section in the Quick Access menu.
 10. Open the CSS Loader plugin and enable your desired theme(s).
+
+# Credits
+- Chiaki Nanami Theme was made with code by EMERALD, and the artwork was done by Twitter user CiloRanko
