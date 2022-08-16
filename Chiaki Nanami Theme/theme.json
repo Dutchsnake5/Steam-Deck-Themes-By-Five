@@ -1,0 +1,12 @@
+{
+	"name": "Chiaki Nanami Theme",
+	"author": "Five#4321",
+	"version": "v1.0",
+	"target": "System-Wide",
+	"manifest_version": 2,
+	"description": "Modified primarily from the Obsidian theme by EMERALD#0874, this is a pastel pink theme featuring Chiaki Nanami from Danganronpa 2, with artwork by CiloRanko.",
+	"inject": {
+		"shared.css": ["SP", "MainMenu", "QuickAccess"],
+		"image.css": ["SP"]
+	}
+}
