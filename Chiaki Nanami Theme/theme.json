@@ -8,5 +8,17 @@
 	"inject": {
 		"shared.css": ["SP", "MainMenu", "QuickAccess"],
 		"image.css": ["SP"]
+	},
+	"patches": {
+		"Switch-Like Home": {
+			"default": "Yes",
+			"type": "checkbox",
+			"values": {
+				"No": {},
+				"Yes": {
+					"SwitchLikeMenu.css": ["SP"]
+				}
+			}
+		}
 	}
 }
